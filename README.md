@@ -59,8 +59,6 @@ shishan-fusion-toolbox/
 | 成人向供给词库 | 7 个维度（anatomy / acts / clothing / expression / fluids / props / viewpoint） |
 | 全仓 | 979 个文件，约 162 MB |
 
-> `database/tags/cooccurrence.csv` 为 51.7 MB，超过 GitHub 建议的 50 MB 单文件阈值（仍在上传上限内）。如需频繁克隆，可考虑改用 Git LFS。
-
 ## 许可与免责
 
 作者：温知澄（[clairwynn](https://github.com/clairwynn)）
