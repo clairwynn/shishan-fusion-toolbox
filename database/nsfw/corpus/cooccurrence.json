@@ -1,0 +1,1320 @@
+{
+  "generatedFrom": "filtered-candidates.tsv",
+  "totalCandidates": 8160,
+  "interpretation": "Corpus co-occurrence is a weak prior. Explicit user themes are mandatory even when pair support is low.",
+  "categoryCounts": {
+    "other-adult-visual": 2451,
+    "penetrative-sex": 1302,
+    "multi-adult": 988,
+    "lingerie-clothing": 944,
+    "oral-manual-body": 783,
+    "restricted-nonconsent": 763,
+    "bondage": 684,
+    "exposure-display": 631,
+    "rough-impact": 586,
+    "solo-play": 508,
+    "wet-fluid": 387,
+    "voyeur-ntr": 302,
+    "fantasy-nonhuman": 297,
+    "mirror-camera": 178,
+    "gore-dismemberment": 165,
+    "public-risk": 117,
+    "campus-adult-roleplay": 112,
+    "torture-execution": 60,
+    "bestiality": 59,
+    "vore": 33,
+    "corpse-necrophilia": 20,
+    "incest-adult-only": 14
+  },
+  "pairs": [
+    {
+      "a": "multi-adult",
+      "b": "penetrative-sex",
+      "count": 234,
+      "pBGivenA": 0.2366,
+      "pAGivenB": 0.1794,
+      "lift": 1.482
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "restricted-nonconsent",
+      "count": 227,
+      "pBGivenA": 0.1741,
+      "pAGivenB": 0.2975,
+      "lift": 1.863
+    },
+    {
+      "a": "multi-adult",
+      "b": "oral-manual-body",
+      "count": 167,
+      "pBGivenA": 0.1689,
+      "pAGivenB": 0.2133,
+      "lift": 1.761
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "solo-play",
+      "count": 153,
+      "pBGivenA": 0.1173,
+      "pAGivenB": 0.3012,
+      "lift": 1.886
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "rough-impact",
+      "count": 137,
+      "pBGivenA": 0.1051,
+      "pAGivenB": 0.2338,
+      "lift": 1.464
+    },
+    {
+      "a": "multi-adult",
+      "b": "restricted-nonconsent",
+      "count": 136,
+      "pBGivenA": 0.1375,
+      "pAGivenB": 0.1782,
+      "lift": 1.472
+    },
+    {
+      "a": "bondage",
+      "b": "multi-adult",
+      "count": 120,
+      "pBGivenA": 0.1752,
+      "pAGivenB": 0.1213,
+      "lift": 1.447
+    },
+    {
+      "a": "bondage",
+      "b": "restricted-nonconsent",
+      "count": 111,
+      "pBGivenA": 0.162,
+      "pAGivenB": 0.1455,
+      "lift": 1.734
+    },
+    {
+      "a": "exposure-display",
+      "b": "lingerie-clothing",
+      "count": 111,
+      "pBGivenA": 0.1759,
+      "pAGivenB": 0.1176,
+      "lift": 1.522
+    },
+    {
+      "a": "exposure-display",
+      "b": "mirror-camera",
+      "count": 105,
+      "pBGivenA": 0.1664,
+      "pAGivenB": 0.5899,
+      "lift": 7.635
+    },
+    {
+      "a": "bondage",
+      "b": "penetrative-sex",
+      "count": 91,
+      "pBGivenA": 0.1328,
+      "pAGivenB": 0.0698,
+      "lift": 0.832
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "rough-impact",
+      "count": 90,
+      "pBGivenA": 0.118,
+      "pAGivenB": 0.1536,
+      "lift": 1.644
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "restricted-nonconsent",
+      "count": 85,
+      "pBGivenA": 0.2862,
+      "pAGivenB": 0.1114,
+      "lift": 3.063
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "penetrative-sex",
+      "count": 81,
+      "pBGivenA": 0.2727,
+      "pAGivenB": 0.0621,
+      "lift": 1.708
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "penetrative-sex",
+      "count": 75,
+      "pBGivenA": 0.0958,
+      "pAGivenB": 0.0575,
+      "lift": 0.6
+    },
+    {
+      "a": "multi-adult",
+      "b": "rough-impact",
+      "count": 68,
+      "pBGivenA": 0.0688,
+      "pAGivenB": 0.116,
+      "lift": 0.958
+    },
+    {
+      "a": "multi-adult",
+      "b": "solo-play",
+      "count": 66,
+      "pBGivenA": 0.0667,
+      "pAGivenB": 0.1299,
+      "lift": 1.073
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "voyeur-ntr",
+      "count": 64,
+      "pBGivenA": 0.0839,
+      "pAGivenB": 0.2119,
+      "lift": 2.268
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "rough-impact",
+      "count": 62,
+      "pBGivenA": 0.0657,
+      "pAGivenB": 0.1058,
+      "lift": 0.915
+    },
+    {
+      "a": "exposure-display",
+      "b": "solo-play",
+      "count": 55,
+      "pBGivenA": 0.0872,
+      "pAGivenB": 0.1083,
+      "lift": 1.401
+    },
+    {
+      "a": "bondage",
+      "b": "rough-impact",
+      "count": 50,
+      "pBGivenA": 0.073,
+      "pAGivenB": 0.0853,
+      "lift": 1.017
+    },
+    {
+      "a": "bondage",
+      "b": "solo-play",
+      "count": 49,
+      "pBGivenA": 0.0715,
+      "pAGivenB": 0.0965,
+      "lift": 1.15
+    },
+    {
+      "a": "exposure-display",
+      "b": "penetrative-sex",
+      "count": 49,
+      "pBGivenA": 0.0777,
+      "pAGivenB": 0.0376,
+      "lift": 0.486
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "solo-play",
+      "count": 45,
+      "pBGivenA": 0.059,
+      "pAGivenB": 0.0886,
+      "lift": 0.948
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "restricted-nonconsent",
+      "count": 45,
+      "pBGivenA": 0.0575,
+      "pAGivenB": 0.059,
+      "lift": 0.615
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "penetrative-sex",
+      "count": 45,
+      "pBGivenA": 0.0477,
+      "pAGivenB": 0.0345,
+      "lift": 0.299
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "wet-fluid",
+      "count": 42,
+      "pBGivenA": 0.0445,
+      "pAGivenB": 0.1085,
+      "lift": 0.939
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "multi-adult",
+      "count": 42,
+      "pBGivenA": 0.0445,
+      "pAGivenB": 0.0425,
+      "lift": 0.367
+    },
+    {
+      "a": "multi-adult",
+      "b": "voyeur-ntr",
+      "count": 39,
+      "pBGivenA": 0.0394,
+      "pAGivenB": 0.1291,
+      "lift": 1.066
+    },
+    {
+      "a": "exposure-display",
+      "b": "rough-impact",
+      "count": 39,
+      "pBGivenA": 0.0618,
+      "pAGivenB": 0.0666,
+      "lift": 0.861
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "voyeur-ntr",
+      "count": 39,
+      "pBGivenA": 0.0299,
+      "pAGivenB": 0.1291,
+      "lift": 0.809
+    },
+    {
+      "a": "bondage",
+      "b": "exposure-display",
+      "count": 38,
+      "pBGivenA": 0.0555,
+      "pAGivenB": 0.0602,
+      "lift": 0.718
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "rough-impact",
+      "count": 37,
+      "pBGivenA": 0.0473,
+      "pAGivenB": 0.0631,
+      "lift": 0.659
+    },
+    {
+      "a": "bondage",
+      "b": "oral-manual-body",
+      "count": 36,
+      "pBGivenA": 0.0526,
+      "pAGivenB": 0.046,
+      "lift": 0.548
+    },
+    {
+      "a": "solo-play",
+      "b": "voyeur-ntr",
+      "count": 34,
+      "pBGivenA": 0.0669,
+      "pAGivenB": 0.1126,
+      "lift": 1.81
+    },
+    {
+      "a": "bondage",
+      "b": "lingerie-clothing",
+      "count": 33,
+      "pBGivenA": 0.0482,
+      "pAGivenB": 0.035,
+      "lift": 0.417
+    },
+    {
+      "a": "mirror-camera",
+      "b": "penetrative-sex",
+      "count": 31,
+      "pBGivenA": 0.1742,
+      "pAGivenB": 0.0238,
+      "lift": 1.091
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "voyeur-ntr",
+      "count": 31,
+      "pBGivenA": 0.0328,
+      "pAGivenB": 0.1026,
+      "lift": 0.888
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "wet-fluid",
+      "count": 31,
+      "pBGivenA": 0.0238,
+      "pAGivenB": 0.0801,
+      "lift": 0.502
+    },
+    {
+      "a": "exposure-display",
+      "b": "multi-adult",
+      "count": 31,
+      "pBGivenA": 0.0491,
+      "pAGivenB": 0.0313,
+      "lift": 0.406
+    },
+    {
+      "a": "rough-impact",
+      "b": "solo-play",
+      "count": 29,
+      "pBGivenA": 0.0495,
+      "pAGivenB": 0.0571,
+      "lift": 0.796
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "restricted-nonconsent",
+      "count": 29,
+      "pBGivenA": 0.0307,
+      "pAGivenB": 0.038,
+      "lift": 0.329
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "oral-manual-body",
+      "count": 29,
+      "pBGivenA": 0.0307,
+      "pAGivenB": 0.037,
+      "lift": 0.32
+    },
+    {
+      "a": "bondage",
+      "b": "voyeur-ntr",
+      "count": 28,
+      "pBGivenA": 0.0409,
+      "pAGivenB": 0.0927,
+      "lift": 1.105
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "vore",
+      "count": 27,
+      "pBGivenA": 0.0909,
+      "pAGivenB": 0.8182,
+      "lift": 22.499
+    },
+    {
+      "a": "exposure-display",
+      "b": "public-risk",
+      "count": 27,
+      "pBGivenA": 0.0428,
+      "pAGivenB": 0.2308,
+      "lift": 2.987
+    },
+    {
+      "a": "exposure-display",
+      "b": "wet-fluid",
+      "count": 27,
+      "pBGivenA": 0.0428,
+      "pAGivenB": 0.0698,
+      "lift": 0.903
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "solo-play",
+      "count": 27,
+      "pBGivenA": 0.0345,
+      "pAGivenB": 0.0531,
+      "lift": 0.554
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "solo-play",
+      "count": 27,
+      "pBGivenA": 0.0286,
+      "pAGivenB": 0.0531,
+      "lift": 0.46
+    },
+    {
+      "a": "bestiality",
+      "b": "penetrative-sex",
+      "count": 26,
+      "pBGivenA": 0.4407,
+      "pAGivenB": 0.0199,
+      "lift": 2.76
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "restricted-nonconsent",
+      "count": 25,
+      "pBGivenA": 0.1515,
+      "pAGivenB": 0.0328,
+      "lift": 1.622
+    },
+    {
+      "a": "multi-adult",
+      "b": "wet-fluid",
+      "count": 25,
+      "pBGivenA": 0.0253,
+      "pAGivenB": 0.0646,
+      "lift": 0.533
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "public-risk",
+      "count": 24,
+      "pBGivenA": 0.0254,
+      "pAGivenB": 0.2051,
+      "lift": 1.775
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "rough-impact",
+      "count": 24,
+      "pBGivenA": 0.0808,
+      "pAGivenB": 0.041,
+      "lift": 1.126
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "penetrative-sex",
+      "count": 24,
+      "pBGivenA": 0.1455,
+      "pAGivenB": 0.0184,
+      "lift": 0.911
+    },
+    {
+      "a": "exposure-display",
+      "b": "restricted-nonconsent",
+      "count": 24,
+      "pBGivenA": 0.038,
+      "pAGivenB": 0.0315,
+      "lift": 0.407
+    },
+    {
+      "a": "exposure-display",
+      "b": "oral-manual-body",
+      "count": 24,
+      "pBGivenA": 0.038,
+      "pAGivenB": 0.0307,
+      "lift": 0.397
+    },
+    {
+      "a": "mirror-camera",
+      "b": "restricted-nonconsent",
+      "count": 23,
+      "pBGivenA": 0.1292,
+      "pAGivenB": 0.0301,
+      "lift": 1.383
+    },
+    {
+      "a": "exposure-display",
+      "b": "voyeur-ntr",
+      "count": 23,
+      "pBGivenA": 0.0365,
+      "pAGivenB": 0.0762,
+      "lift": 0.986
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "voyeur-ntr",
+      "count": 23,
+      "pBGivenA": 0.0294,
+      "pAGivenB": 0.0762,
+      "lift": 0.794
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "rough-impact",
+      "count": 22,
+      "pBGivenA": 0.1333,
+      "pAGivenB": 0.0375,
+      "lift": 1.858
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "voyeur-ntr",
+      "count": 20,
+      "pBGivenA": 0.0673,
+      "pAGivenB": 0.0662,
+      "lift": 1.821
+    },
+    {
+      "a": "mirror-camera",
+      "b": "solo-play",
+      "count": 20,
+      "pBGivenA": 0.1124,
+      "pAGivenB": 0.0394,
+      "lift": 1.806
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "penetrative-sex",
+      "count": 19,
+      "pBGivenA": 0.1696,
+      "pAGivenB": 0.0146,
+      "lift": 1.062
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "public-risk",
+      "count": 19,
+      "pBGivenA": 0.0146,
+      "pAGivenB": 0.1624,
+      "lift": 1.017
+    },
+    {
+      "a": "rough-impact",
+      "b": "wet-fluid",
+      "count": 19,
+      "pBGivenA": 0.0324,
+      "pAGivenB": 0.0491,
+      "lift": 0.684
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "torture-execution",
+      "count": 18,
+      "pBGivenA": 0.0236,
+      "pAGivenB": 0.3,
+      "lift": 3.211
+    },
+    {
+      "a": "bondage",
+      "b": "torture-execution",
+      "count": 17,
+      "pBGivenA": 0.0248,
+      "pAGivenB": 0.2833,
+      "lift": 3.378
+    },
+    {
+      "a": "bestiality",
+      "b": "restricted-nonconsent",
+      "count": 17,
+      "pBGivenA": 0.2881,
+      "pAGivenB": 0.0223,
+      "lift": 3.084
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "mirror-camera",
+      "count": 17,
+      "pBGivenA": 0.018,
+      "pAGivenB": 0.0955,
+      "lift": 0.826
+    },
+    {
+      "a": "mirror-camera",
+      "b": "oral-manual-body",
+      "count": 16,
+      "pBGivenA": 0.0899,
+      "pAGivenB": 0.0204,
+      "lift": 0.938
+    },
+    {
+      "a": "bondage",
+      "b": "fantasy-nonhuman",
+      "count": 16,
+      "pBGivenA": 0.0234,
+      "pAGivenB": 0.0539,
+      "lift": 0.642
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "wet-fluid",
+      "count": 16,
+      "pBGivenA": 0.021,
+      "pAGivenB": 0.0413,
+      "lift": 0.443
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "wet-fluid",
+      "count": 16,
+      "pBGivenA": 0.0204,
+      "pAGivenB": 0.0413,
+      "lift": 0.431
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "exposure-display",
+      "count": 14,
+      "pBGivenA": 0.125,
+      "pAGivenB": 0.0222,
+      "lift": 1.618
+    },
+    {
+      "a": "rough-impact",
+      "b": "torture-execution",
+      "count": 13,
+      "pBGivenA": 0.0222,
+      "pAGivenB": 0.2167,
+      "lift": 3.02
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "rough-impact",
+      "count": 13,
+      "pBGivenA": 0.1161,
+      "pAGivenB": 0.0222,
+      "lift": 1.618
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "restricted-nonconsent",
+      "count": 13,
+      "pBGivenA": 0.1161,
+      "pAGivenB": 0.017,
+      "lift": 1.242
+    },
+    {
+      "a": "mirror-camera",
+      "b": "multi-adult",
+      "count": 13,
+      "pBGivenA": 0.073,
+      "pAGivenB": 0.0131,
+      "lift": 0.603
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "multi-adult",
+      "count": 13,
+      "pBGivenA": 0.0438,
+      "pAGivenB": 0.0131,
+      "lift": 0.361
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "multi-adult",
+      "count": 12,
+      "pBGivenA": 0.8571,
+      "pAGivenB": 0.0121,
+      "lift": 7.078
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "vore",
+      "count": 12,
+      "pBGivenA": 0.0092,
+      "pAGivenB": 0.3636,
+      "lift": 2.277
+    },
+    {
+      "a": "public-risk",
+      "b": "restricted-nonconsent",
+      "count": 12,
+      "pBGivenA": 0.1026,
+      "pAGivenB": 0.0157,
+      "lift": 1.098
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "lingerie-clothing",
+      "count": 12,
+      "pBGivenA": 0.1071,
+      "pAGivenB": 0.0127,
+      "lift": 0.927
+    },
+    {
+      "a": "rough-impact",
+      "b": "voyeur-ntr",
+      "count": 12,
+      "pBGivenA": 0.0205,
+      "pAGivenB": 0.0397,
+      "lift": 0.554
+    },
+    {
+      "a": "solo-play",
+      "b": "wet-fluid",
+      "count": 12,
+      "pBGivenA": 0.0236,
+      "pAGivenB": 0.031,
+      "lift": 0.499
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "rough-impact",
+      "count": 11,
+      "pBGivenA": 0.55,
+      "pAGivenB": 0.0188,
+      "lift": 7.665
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "gore-dismemberment",
+      "count": 11,
+      "pBGivenA": 0.037,
+      "pAGivenB": 0.0667,
+      "lift": 1.833
+    },
+    {
+      "a": "bondage",
+      "b": "wet-fluid",
+      "count": 11,
+      "pBGivenA": 0.0161,
+      "pAGivenB": 0.0284,
+      "lift": 0.339
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "gore-dismemberment",
+      "count": 10,
+      "pBGivenA": 0.5,
+      "pAGivenB": 0.0606,
+      "lift": 24.748
+    },
+    {
+      "a": "mirror-camera",
+      "b": "voyeur-ntr",
+      "count": 10,
+      "pBGivenA": 0.0562,
+      "pAGivenB": 0.0331,
+      "lift": 1.519
+    },
+    {
+      "a": "public-risk",
+      "b": "solo-play",
+      "count": 10,
+      "pBGivenA": 0.0855,
+      "pAGivenB": 0.0197,
+      "lift": 1.374
+    },
+    {
+      "a": "multi-adult",
+      "b": "public-risk",
+      "count": 10,
+      "pBGivenA": 0.0101,
+      "pAGivenB": 0.0855,
+      "lift": 0.706
+    },
+    {
+      "a": "voyeur-ntr",
+      "b": "wet-fluid",
+      "count": 10,
+      "pBGivenA": 0.0331,
+      "pAGivenB": 0.0258,
+      "lift": 0.699
+    },
+    {
+      "a": "restricted-nonconsent",
+      "b": "vore",
+      "count": 9,
+      "pBGivenA": 0.0118,
+      "pAGivenB": 0.2727,
+      "lift": 2.919
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "wet-fluid",
+      "count": 9,
+      "pBGivenA": 0.0804,
+      "pAGivenB": 0.0233,
+      "lift": 1.696
+    },
+    {
+      "a": "penetrative-sex",
+      "b": "torture-execution",
+      "count": 9,
+      "pBGivenA": 0.0069,
+      "pAGivenB": 0.15,
+      "lift": 0.939
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "torture-execution",
+      "count": 8,
+      "pBGivenA": 0.0485,
+      "pAGivenB": 0.1333,
+      "lift": 6.6
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "voyeur-ntr",
+      "count": 8,
+      "pBGivenA": 0.0485,
+      "pAGivenB": 0.0265,
+      "lift": 1.311
+    },
+    {
+      "a": "multi-adult",
+      "b": "torture-execution",
+      "count": 8,
+      "pBGivenA": 0.0081,
+      "pAGivenB": 0.1333,
+      "lift": 1.101
+    },
+    {
+      "a": "public-risk",
+      "b": "rough-impact",
+      "count": 8,
+      "pBGivenA": 0.0684,
+      "pAGivenB": 0.0137,
+      "lift": 0.953
+    },
+    {
+      "a": "bondage",
+      "b": "campus-adult-roleplay",
+      "count": 8,
+      "pBGivenA": 0.0117,
+      "pAGivenB": 0.0714,
+      "lift": 0.852
+    },
+    {
+      "a": "mirror-camera",
+      "b": "rough-impact",
+      "count": 8,
+      "pBGivenA": 0.0449,
+      "pAGivenB": 0.0137,
+      "lift": 0.626
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "multi-adult",
+      "count": 8,
+      "pBGivenA": 0.0714,
+      "pAGivenB": 0.0081,
+      "lift": 0.59
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "wet-fluid",
+      "count": 8,
+      "pBGivenA": 0.0269,
+      "pAGivenB": 0.0207,
+      "lift": 0.568
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "solo-play",
+      "count": 7,
+      "pBGivenA": 0.0625,
+      "pAGivenB": 0.0138,
+      "lift": 1.005
+    },
+    {
+      "a": "bondage",
+      "b": "mirror-camera",
+      "count": 7,
+      "pBGivenA": 0.0102,
+      "pAGivenB": 0.0393,
+      "lift": 0.469
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "lingerie-clothing",
+      "count": 7,
+      "pBGivenA": 0.0236,
+      "pAGivenB": 0.0074,
+      "lift": 0.204
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "torture-execution",
+      "count": 6,
+      "pBGivenA": 0.0202,
+      "pAGivenB": 0.1,
+      "lift": 2.75
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "solo-play",
+      "count": 6,
+      "pBGivenA": 0.0202,
+      "pAGivenB": 0.0118,
+      "lift": 0.325
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "multi-adult",
+      "count": 6,
+      "pBGivenA": 0.0364,
+      "pAGivenB": 0.0061,
+      "lift": 0.3
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "restricted-nonconsent",
+      "count": 5,
+      "pBGivenA": 0.25,
+      "pAGivenB": 0.0066,
+      "lift": 2.676
+    },
+    {
+      "a": "bestiality",
+      "b": "fantasy-nonhuman",
+      "count": 5,
+      "pBGivenA": 0.0847,
+      "pAGivenB": 0.0168,
+      "lift": 2.33
+    },
+    {
+      "a": "exposure-display",
+      "b": "gore-dismemberment",
+      "count": 5,
+      "pBGivenA": 0.0079,
+      "pAGivenB": 0.0303,
+      "lift": 0.392
+    },
+    {
+      "a": "bondage",
+      "b": "gore-dismemberment",
+      "count": 5,
+      "pBGivenA": 0.0073,
+      "pAGivenB": 0.0303,
+      "lift": 0.361
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "oral-manual-body",
+      "count": 5,
+      "pBGivenA": 0.0168,
+      "pAGivenB": 0.0064,
+      "lift": 0.176
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "lingerie-clothing",
+      "count": 4,
+      "pBGivenA": 0.2857,
+      "pAGivenB": 0.0042,
+      "lift": 2.472
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "penetrative-sex",
+      "count": 4,
+      "pBGivenA": 0.2857,
+      "pAGivenB": 0.0031,
+      "lift": 1.789
+    },
+    {
+      "a": "public-risk",
+      "b": "voyeur-ntr",
+      "count": 4,
+      "pBGivenA": 0.0342,
+      "pAGivenB": 0.0132,
+      "lift": 0.925
+    },
+    {
+      "a": "public-risk",
+      "b": "wet-fluid",
+      "count": 4,
+      "pBGivenA": 0.0342,
+      "pAGivenB": 0.0103,
+      "lift": 0.721
+    },
+    {
+      "a": "exposure-display",
+      "b": "fantasy-nonhuman",
+      "count": 4,
+      "pBGivenA": 0.0063,
+      "pAGivenB": 0.0135,
+      "lift": 0.174
+    },
+    {
+      "a": "bestiality",
+      "b": "gore-dismemberment",
+      "count": 3,
+      "pBGivenA": 0.0508,
+      "pAGivenB": 0.0182,
+      "lift": 2.517
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "mirror-camera",
+      "count": 3,
+      "pBGivenA": 0.0268,
+      "pAGivenB": 0.0169,
+      "lift": 1.229
+    },
+    {
+      "a": "mirror-camera",
+      "b": "public-risk",
+      "count": 3,
+      "pBGivenA": 0.0169,
+      "pAGivenB": 0.0256,
+      "lift": 1.176
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "penetrative-sex",
+      "count": 3,
+      "pBGivenA": 0.15,
+      "pAGivenB": 0.0023,
+      "lift": 0.939
+    },
+    {
+      "a": "solo-play",
+      "b": "torture-execution",
+      "count": 3,
+      "pBGivenA": 0.0059,
+      "pAGivenB": 0.05,
+      "lift": 0.804
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "voyeur-ntr",
+      "count": 3,
+      "pBGivenA": 0.0268,
+      "pAGivenB": 0.0099,
+      "lift": 0.724
+    },
+    {
+      "a": "bestiality",
+      "b": "rough-impact",
+      "count": 3,
+      "pBGivenA": 0.0508,
+      "pAGivenB": 0.0051,
+      "lift": 0.709
+    },
+    {
+      "a": "bestiality",
+      "b": "bondage",
+      "count": 3,
+      "pBGivenA": 0.0508,
+      "pAGivenB": 0.0044,
+      "lift": 0.606
+    },
+    {
+      "a": "mirror-camera",
+      "b": "wet-fluid",
+      "count": 3,
+      "pBGivenA": 0.0169,
+      "pAGivenB": 0.0078,
+      "lift": 0.356
+    },
+    {
+      "a": "bondage",
+      "b": "public-risk",
+      "count": 3,
+      "pBGivenA": 0.0044,
+      "pAGivenB": 0.0256,
+      "lift": 0.306
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "solo-play",
+      "count": 3,
+      "pBGivenA": 0.0182,
+      "pAGivenB": 0.0059,
+      "lift": 0.292
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "oral-manual-body",
+      "count": 3,
+      "pBGivenA": 0.0268,
+      "pAGivenB": 0.0038,
+      "lift": 0.279
+    },
+    {
+      "a": "oral-manual-body",
+      "b": "public-risk",
+      "count": 3,
+      "pBGivenA": 0.0038,
+      "pAGivenB": 0.0256,
+      "lift": 0.267
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "oral-manual-body",
+      "count": 3,
+      "pBGivenA": 0.0182,
+      "pAGivenB": 0.0038,
+      "lift": 0.19
+    },
+    {
+      "a": "bestiality",
+      "b": "vore",
+      "count": 2,
+      "pBGivenA": 0.0339,
+      "pAGivenB": 0.0606,
+      "lift": 8.389
+    },
+    {
+      "a": "torture-execution",
+      "b": "vore",
+      "count": 2,
+      "pBGivenA": 0.0333,
+      "pAGivenB": 0.0606,
+      "lift": 8.249
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "voyeur-ntr",
+      "count": 2,
+      "pBGivenA": 0.1,
+      "pAGivenB": 0.0066,
+      "lift": 2.704
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "solo-play",
+      "count": 2,
+      "pBGivenA": 0.1429,
+      "pAGivenB": 0.0039,
+      "lift": 2.297
+    },
+    {
+      "a": "bondage",
+      "b": "vore",
+      "count": 2,
+      "pBGivenA": 0.0029,
+      "pAGivenB": 0.0606,
+      "lift": 0.723
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "fantasy-nonhuman",
+      "count": 2,
+      "pBGivenA": 0.0179,
+      "pAGivenB": 0.0067,
+      "lift": 0.491
+    },
+    {
+      "a": "exposure-display",
+      "b": "torture-execution",
+      "count": 2,
+      "pBGivenA": 0.0032,
+      "pAGivenB": 0.0333,
+      "lift": 0.431
+    },
+    {
+      "a": "bestiality",
+      "b": "oral-manual-body",
+      "count": 2,
+      "pBGivenA": 0.0339,
+      "pAGivenB": 0.0026,
+      "lift": 0.354
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "mirror-camera",
+      "count": 2,
+      "pBGivenA": 0.0067,
+      "pAGivenB": 0.0112,
+      "lift": 0.309
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "wet-fluid",
+      "count": 2,
+      "pBGivenA": 0.0121,
+      "pAGivenB": 0.0052,
+      "lift": 0.256
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "vore",
+      "count": 1,
+      "pBGivenA": 0.0061,
+      "pAGivenB": 0.0303,
+      "lift": 1.5
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "fantasy-nonhuman",
+      "count": 1,
+      "pBGivenA": 0.05,
+      "pAGivenB": 0.0034,
+      "lift": 1.375
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "torture-execution",
+      "count": 1,
+      "pBGivenA": 0.0089,
+      "pAGivenB": 0.0167,
+      "lift": 1.215
+    },
+    {
+      "a": "bestiality",
+      "b": "public-risk",
+      "count": 1,
+      "pBGivenA": 0.0169,
+      "pAGivenB": 0.0085,
+      "lift": 1.183
+    },
+    {
+      "a": "exposure-display",
+      "b": "incest-adult-only",
+      "count": 1,
+      "pBGivenA": 0.0016,
+      "pAGivenB": 0.0714,
+      "lift": 0.924
+    },
+    {
+      "a": "vore",
+      "b": "voyeur-ntr",
+      "count": 1,
+      "pBGivenA": 0.0303,
+      "pAGivenB": 0.0033,
+      "lift": 0.819
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "restricted-nonconsent",
+      "count": 1,
+      "pBGivenA": 0.0714,
+      "pAGivenB": 0.0013,
+      "lift": 0.765
+    },
+    {
+      "a": "incest-adult-only",
+      "b": "oral-manual-body",
+      "count": 1,
+      "pBGivenA": 0.0714,
+      "pAGivenB": 0.0013,
+      "lift": 0.745
+    },
+    {
+      "a": "vore",
+      "b": "wet-fluid",
+      "count": 1,
+      "pBGivenA": 0.0303,
+      "pAGivenB": 0.0026,
+      "lift": 0.639
+    },
+    {
+      "a": "torture-execution",
+      "b": "voyeur-ntr",
+      "count": 1,
+      "pBGivenA": 0.0167,
+      "pAGivenB": 0.0033,
+      "lift": 0.451
+    },
+    {
+      "a": "campus-adult-roleplay",
+      "b": "gore-dismemberment",
+      "count": 1,
+      "pBGivenA": 0.0089,
+      "pAGivenB": 0.0061,
+      "lift": 0.442
+    },
+    {
+      "a": "corpse-necrophilia",
+      "b": "multi-adult",
+      "count": 1,
+      "pBGivenA": 0.05,
+      "pAGivenB": 0.001,
+      "lift": 0.413
+    },
+    {
+      "a": "torture-execution",
+      "b": "wet-fluid",
+      "count": 1,
+      "pBGivenA": 0.0167,
+      "pAGivenB": 0.0026,
+      "lift": 0.352
+    },
+    {
+      "a": "fantasy-nonhuman",
+      "b": "public-risk",
+      "count": 1,
+      "pBGivenA": 0.0034,
+      "pAGivenB": 0.0085,
+      "lift": 0.235
+    },
+    {
+      "a": "lingerie-clothing",
+      "b": "torture-execution",
+      "count": 1,
+      "pBGivenA": 0.0011,
+      "pAGivenB": 0.0167,
+      "lift": 0.144
+    },
+    {
+      "a": "gore-dismemberment",
+      "b": "lingerie-clothing",
+      "count": 1,
+      "pBGivenA": 0.0061,
+      "pAGivenB": 0.0011,
+      "lift": 0.052
+    }
+  ],
+  "countingNote": "categoryCounts 为多标签重复计数（同一行可属多个分类，求和大于 totalCandidates 属正常）；数值以 filtered-candidates.tsv 实测为准。"
+}
