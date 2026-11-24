@@ -43,6 +43,7 @@ shishan-fusion-toolbox/
 ├── SKILL.md              主入口：定位、任务路由、四大工作流、输出契约、铁律、按需加载表
 ├── README.md
 ├── LICENSE
+├── DISCLAIMER.md         免责声明与数据来源说明（完整条款）
 ├── references/           方法论文档 25 份
 │   ├── tag-flow.md       标签流语法、库查询 grep 模式与回退链
 │   ├── nl-flow.md        自然语言流结构、句式模板、中英词库
@@ -94,7 +95,12 @@ shishan-fusion-toolbox/
 
 ## 许可与免责
 
+作者：温知澄（[clairwynn](https://github.com/clairwynn)）
+
 - 代码与文档：MIT，见 [LICENSE](LICENSE)。
-- 数据：`database/` 下的标签、角色与提示词数据整理自公开数据集，各自遵循其来源的使用条款。用于商业分发或二次发布前，请自行核实对应来源的授权范围。
-- 内容分级：仓库内含成人向参考资料（`references/nsfw/`、`database/nsfw/`）。skill 默认运行在 A 模式，不会主动产出此类内容；B 模式需用户显式切换。
+- **数据来源**：仓库内所有数据与资料均为作者从互联网公开渠道收集整理而成。因数据量大、来源庞杂且经多次合并清洗，无法逐条标注每项数据的具体来源与参考项目；原始数据权利归各自权利人所有，商业分发前请自行核实来源授权。
+- 内容分级：仓库内含成人向参考资料（`references/nsfw/`、`database/nsfw/`），仅限成年人使用。skill 默认运行在 A 模式，不会主动产出此类内容；B 模式需用户显式切换。
 - 免责：本项目按「现状」提供，不附带任何明示或暗示担保。使用本 skill 产出的提示词所引发的任何后果（包括但不限于平台内容审核、模型使用条款、第三方权利纠纷），由使用者自行承担。
+- 侵权移除：权利人可通过[仓库 Issue](https://github.com/clairwynn/shishan-fusion-toolbox/issues) 或作者主页联系，核实后将移除相关内容。
+
+**完整条款请阅读 [DISCLAIMER.md](DISCLAIMER.md)**（数据来源说明、许可范围界定、内容分级与未成年人保护、免责条款、侵权处理渠道）。
