@@ -1,5 +1,5 @@
 ---
-name: ai-prompts
+name: shishan-fusion-toolbox
 description: |
   图片提示词全能工作台：生成、转换、反推、推荐四大任务，覆盖标签流（NovelAI/SD/Anima/NoobAI）、自然语言流（Midjourney/Flux/Nano Banana/GPT-Image/Seedream/即梦/可灵/Krea）与混合三种形态，内置32.8万条Danbooru标签库、共现矩阵、角色知识库、约3.1万条多库真实提示词、成人内容7维供给词库与6933条场景配方。
   当用户明确提到：提示词/prompt/咒语/标签/tag/负面词/negative、反推/图画文/img2prompt/这张图用什么提示词、转换/改写/优化/审查/检查/对比提示词/翻译成标签、要提示词参考/案例/灵感，或点名任何生图模型（Midjourney、NAI、NovelAI、SD、Stable Diffusion、SDXL、NoobAI、Illustrious、Anima、Flux、Nano Banana、Gemini、GPT-Image、Seedream、即梦、可灵、Krea）并涉及提示词写法时，使用本skill。
@@ -9,7 +9,7 @@ metadata:
   last-updated: "2026-10-05"
 ---
 
-# ai-prompts —— 图片提示词全能工作台
+# 图片提示词超级融合史山工具箱 —— 图片提示词全能工作台
 
 只做提示词，不做生成。把画面想法、已有提示词、参考图、灵感需求，变成可直接投喂目标模型的成品提示词。
 
